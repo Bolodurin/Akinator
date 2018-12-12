@@ -1,0 +1,2 @@
+# Akinator
+Game Akinator
